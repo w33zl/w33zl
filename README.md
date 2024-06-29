@@ -4,23 +4,24 @@ I mostly do mods, extensions, tools and other content for Farming Simulator.
 
 ![w33zl](https://komarev.com/ghpvc/?username=w33zl&label=Profile%20views&color=0e75b6&style=flat)
 
-<p style="float:left" float="left">
-  
-| Mods  | What   |   |  Another |   |
-|---|----|---|---|---|
-| [FS22_CustomTrafficSystem](/w33zl/FS22_CustomTrafficSystem)  | dd |   | MyTot |   |
-|   |    |   |   |   |
-|   |    |   |   |   |
+## Projects
+Using the links below you can get more information about the mods/tools/assets as well as report bugs and suggest improvements. Note: not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod. 
+| Mods  |  | Modding Assets |
+|-------|--|----------------|
+| [PowerTools](/weezl/FS22_PowerTools) || [GE Hotkeys and Macros](/weezl/GE-Hotkeys-and-Macros) |
+| PowerTools Developer || [GE Toolbox](/weezl/GE-Toolbox) |
+| TidyShop || [GE Object Distributor](/weezl/GE-Object-Distributor) |
+| TidyShop ModTitles || [GE TipsAndTrix](/weezl/GE-TipsAndTrix) |
+| [CustomTrafficSystem](/weezl/FS22_CustomTrafficSystem) ||  |
+| Weather Events || [WeezlsModLib](/weezl/FS22_WeezlsModLib) |
+| Seasonal Prices || [BootstrapMod](/weezl/FS22_BootstrapMod) |
+| Beet Harvest Addon ||  |
+| SmartControl ||  |
+| Other Mods ||  |
 
-</p>
-
-<p style="float:left" float="left">
-  
-| Tools & Assets  | What   |   |  Another |   |
-|---|----|---|---|---|
-| [GE-Object-Distributor]([/w33zl/GE-Object-Distributor)  | dd |   | MyTot |   |
 ## Download my mods
 To download my mods, please visit my FS19 or FS22 page on the official Giants ModHub page:
+
 
 [![My FS22 Mods](GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
