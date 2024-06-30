@@ -40,6 +40,12 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 [![My FS25 Mods](GitHubIcons_MH_FS25.png)](FS25.md)
 
 
+## Open Modding Alliance
+I'm a contributor and co-founder of the [Open Modding Alliance](https://github.com/open-modding-alliance) (OMA). The core of OMA is collaboration and knowledge sharing for the greater good of the Farming Simulator community. If you are a modder or create assets for FS I can recommend paying this page a visit:
+
+[![Open Modding Alliance](GitHubIcons_OMA.png)](https://github.com/open-modding-alliance)
+
+
 ## Connect with me
 📫 Want to get in touch? If you have bugs to report or want to suggest improvements, it is easiest to send a ticket here on GitHub (see projects above). Otherwise you can find me on Facebook, Patreon and Discord:
 
