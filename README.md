@@ -26,6 +26,28 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 | SmartControl ||  |
 | [Other Mods](https://github.com/w33zl/Other-Mods) ||  |
 
+
+
+| Mods  |  |  |
+|-------|--|--|
+| [PowerTools](https://github.com/w33zl/FS22_PowerTools) | [TidyShop](https://github.com/w33zl/TidyShop) | [WeatherEvents](https://github.com/w33zl/WeatherEvents) |
+| [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) | [TidyShop ModTitles](https://github.com/w33zl/TidyShop_ModTitles) | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
+| [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) | [BeetHarvestAddon](https://github.com/w33zl/BeetHarvestAddon) | [SmartControl](https://github.com/w33zl/SmartControl) |
+| Refillable IBC Tank |  |  |
+| [Other Mods](https://github.com/w33zl/Other-Mods) |  |  |
+
+
+| Mod Assets  | Tools | Blender Assets |
+|-------------------|--|--|
+| [WeezlsModLib](https://github.com/w33zl/FS22_WeezlsModLib) | [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) | [Blender Assets](https://github.com/w33zl/Blender_Assets) |
+| [BootstrapMod](https://github.com/w33zl/FS22_BootstrapMod) | [GE Toolbox](https://github.com/w33zl/GE-Toolbox) |  |
+|  | [GE Object Distributor](https://github.com/w33zl/GE-Object-Distributor) |  |
+|  | [GE TipsAndTrix](https://github.com/w33zl/GE-TipsAndTrix) |  |
+
+
+
+
+
 ## Download my mods
 To download my mods, please visit my FS19 or FS22 page on the official Giants ModHub page:
 
