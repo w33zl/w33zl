@@ -15,7 +15,7 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 
 
 ### Mods
-|   |  |  |  |
+|       |  |  |  |
 |-------|--|--|--|
 | [PowerTools](https://github.com/w33zl/FS22_PowerTools) | [TidyShop](https://github.com/w33zl/TidyShop) | [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) | WeatherEvents |
 | [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) | TidyShop ModTitles | Refillable IBC Tank | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
@@ -32,15 +32,13 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 
 
 
-
-
 ## Download my mods
 To download my mods, please visit my FS19 or FS22 page on the official Giants ModHub page:
 
-
 [![My FS22 Mods](GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
-![Not yet, sorry](GitHubIcons_MH_FS25.png)
+[![My FS25 Mods](GitHubIcons_MH_FS25.png)](FS25.md)
+
 
 ## Connect with me
 📫 Want to get in touch? If you have bugs to report or want to suggest improvements, it is easiest to send a ticket here on GitHub (see projects above). Otherwise you can find me on Facebook, Patreon and Discord:
