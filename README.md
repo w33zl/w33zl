@@ -1,5 +1,5 @@
 # Hi 👋, I'm a game content creator for Farming Simulator and other games
-Currently, I do mostly mods, extensions, tools and other content for Farming Simulator.
+Currently, I do mostly mods, extensions, tools and assets for Farming Simulator.
 <!--
 <h1 align="center">Hi 👋, WZL Modding</h1>
 <h3 align="center">Game Content Creator for Farming Simulator and other games</h3>
