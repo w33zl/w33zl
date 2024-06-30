@@ -8,7 +8,7 @@ I mostly do mods, extensions, tools and other content for Farming Simulator.
 Using the links below you can get more information about the mods/tools/assets as well as report bugs and suggest improvements. Note: not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod. 
 | Mods  |  | Modding Assets |
 |-------|--|----------------|
-| [PowerTools](/w33zl/FS22_PowerTools) || [GE Hotkeys and Macros](/w33zl/GE-Hotkeys-and-Macros) |
+| [PowerTools](https://github.com/w33zl/FS22_PowerTools) || [GE Hotkeys and Macros](/w33zl/GE-Hotkeys-and-Macros) |
 | [PowerTools Developer](/w33zl/FS22_PowerTools_Developer) || [GE Toolbox](/w33zl/GE-Toolbox) |
 | [TidyShop](/w33zl/TidyShop) || [GE Object Distributor](/w33zl/GE-Object-Distributor) |
 | TidyShop ModTitles || [GE TipsAndTrix](/w33zl/GE-TipsAndTrix) |
