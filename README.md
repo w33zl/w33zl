@@ -1,23 +1,30 @@
+# Hi 👋, I'm a game content creator for Farming Simulator and other games
+Currently, I do mostly mods, extensions, tools and other content for Farming Simulator.
+<!--
 <h1 align="center">Hi 👋, WZL Modding</h1>
 <h3 align="center">Game Content Creator for Farming Simulator and other games</h3>
 I mostly do mods, extensions, tools and other content for Farming Simulator. 
+-->
 
 ![w33zl](https://komarev.com/ghpvc/?username=w33zl&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Projects
-Using the links below you can get more information about the mods/tools/assets as well as report bugs and suggest improvements. Note: not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod. 
+Using the links below you can get more information about the mods/tools/assets I have created. In each repo you can report bugs and suggest improvements for that project. 
+
+_**Note:** not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod you are looking for._
+
 | Mods  |  | Modding Assets |
 |-------|--|----------------|
-| [PowerTools](/w33zl/FS22_PowerTools) || [GE Hotkeys and Macros](/w33zl/GE-Hotkeys-and-Macros) |
-| [PowerTools Developer](/w33zl/FS22_PowerTools_Developer) || [GE Toolbox](/w33zl/GE-Toolbox) |
-| [TidyShop](/w33zl/TidyShop) || [GE Object Distributor](/w33zl/GE-Object-Distributor) |
+| [PowerTools](https://github.com/w33zl/FS22_PowerTools) || [GE Hotkeys and Macros](/w33zl/GE-Hotkeys-and-Macros) |
+| [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) || [GE Toolbox](/w33zl/GE-Toolbox) |
+| [TidyShop](https://github.com/w33zl/TidyShop) || [GE Object Distributor](/w33zl/GE-Object-Distributor) |
 | TidyShop ModTitles || [GE TipsAndTrix](/w33zl/GE-TipsAndTrix) |
-| [CustomTrafficSystem](/w33zl/FS22_CustomTrafficSystem) ||  |
+| [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) ||  |
 | Weather Events || [WeezlsModLib](/w33zl/FS22_WeezlsModLib) |
 | Seasonal Prices || [BootstrapMod](/w33zl/FS22_BootstrapMod) |
 | Beet Harvest Addon ||  |
 | SmartControl ||  |
-| [Other Mods](/w33zl/Other-Mods) ||  |
+| [Other Mods](https://github.com/w33zl/Other-Mods) ||  |
 
 
 
@@ -28,15 +35,17 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 [![My FS22 Mods](GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
 
-<br clear="both" />
 
-
-- 📫 Want to get in touch? If you have issues or suggestions regarding my repositories, it is easiest to send a ticket here on GitHub. Otherwise you can find me on Discord with the username w33zl.
+## Connect with me:
+📫 Want to get in touch? If you have issues or suggestions regarding my repositories, it is easiest to send a ticket here on GitHub. Otherwise you can find me on Discord with the username w33zl.
 
 <br clear="both">
 
-<h3 align="left">Connect with me:</h3>
+[![WZL Modding on Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://fb.com/w33zl)
+[![WZL Modding on Patreon](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg)](https://www.patreon.com/wzlmodding)
 
+
+<div style="display:none">
 
 [![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://fb.com/w33zl)
 [![https://discordapp.com/users/w33zl](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/channels/@me/w33zl/)
@@ -44,6 +53,7 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 [![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg)](https://fb.com/w33zl)
 [![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg)](https://fb.com/w33zl)
 
+</div>
 
 ## Like the work I do?
 I love to hear you feedback so please check out my [Facebook](https://www.facebook.com/w33zl). If you want to support me you can become my [Patron](https://www.patreon.com/wzlmodding) or buy me a [Ko-fi](https://ko-fi.com/w33zl) :heart:
@@ -52,8 +62,7 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 
 
 
-
-<div align="center">
+<div align="center" style="display:none">
   
 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
@@ -65,8 +74,8 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 </div>
 
 
-<h3 align="left">Some of the Languages and Tools I Like to Work With:</h3>
-<div align="center">
+## Some of the Languages and Tools I Like to Work With:
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
