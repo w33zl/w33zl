@@ -14,14 +14,15 @@ Using the links below you can get more information about the mods/tools/assets I
 _**Note:** not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod you are looking for._
 
 
-| Mods  |  |  |  |
+### Mods
+|   |  |  |  |
 |-------|--|--|--|
 | [PowerTools](https://github.com/w33zl/FS22_PowerTools) | [TidyShop](https://github.com/w33zl/TidyShop) | [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) | WeatherEvents |
 | [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) | TidyShop ModTitles | Refillable IBC Tank | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
 | BeetHarvestAddon | SmartControl |  | [Other Mods](https://github.com/w33zl/Other-Mods) |
 
 
-
+### Tools and Assets
 | Mod Assets  | Tools & Scripts | Blender Assets |
 |-------------------|--|--|
 | [WeezlsModLib](https://github.com/w33zl/FS22_WeezlsModLib) | [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) | [Blender Assets](https://github.com/w33zl/Blender_Assets) |
