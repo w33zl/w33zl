@@ -32,7 +32,7 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 
 [![My FS22 Mods](GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
-
+![Not yet, sorry](GitHubIcons_MH_FS25.png)
 
 ## Connect with me
 📫 Want to get in touch? If you have bugs to report or want to suggest improvements, it is easiest to send a ticket here on GitHub (see projects above). Otherwise you can find me on Facebook, Patreon and Discord:
