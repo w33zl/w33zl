@@ -38,9 +38,7 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 📫 Want to get in touch? If you have bugs to report or want to suggest improvements, it is easiest to send a ticket here on GitHub (see projects above). Otherwise you can find me on Facebook, Patreon and Discord:
 
 
-[![WZL Modding on Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg) &nbsp;](https://fb.com/w33zl)
-[![WZL Modding on Patreon](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg) &nbsp;](https://www.patreon.com/wzlmodding)
-[![https://discordapp.com/users/w33zl](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/w33zl)
+[![WZL Modding on Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://fb.com/w33zl) *&nbsp;* [![WZL Modding on Patreon](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg)](https://www.patreon.com/wzlmodding) *&nbsp;* [![https://discordapp.com/users/w33zl](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/w33zl)
 
 
 ## Like the work I do?
