@@ -8,7 +8,7 @@ I mostly do mods, extensions, tools and other content for Farming Simulator.
 
 ![w33zl](https://komarev.com/ghpvc/?username=w33zl&label=Profile%20views&color=0e75b6&style=flat)
 
-## Projects
+## Projects (mods, tools and assets)
 Using the links below you can get more information about the mods/tools/assets I have created. In each repo you can report bugs and suggest improvements for that project. 
 
 _**Note:** not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod you are looking for._
@@ -34,24 +34,14 @@ To download my mods, please visit my FS19 or FS22 page on the official Giants Mo
 [![My FS22 Mods](GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
 
 
-## Connect with me:
-📫 Want to get in touch? If you have issues or suggestions regarding my repositories, it is easiest to send a ticket here on GitHub. Otherwise you can find me on Discord with the username w33zl.
-
-<br clear="both">
-
-[![WZL Modding on Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://fb.com/w33zl)
-[![WZL Modding on Patreon](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg)](https://www.patreon.com/wzlmodding)
+## Connect with me
+📫 Want to get in touch? If you have bugs to report or want to suggest improvements, it is easiest to send a ticket here on GitHub (see projects above). Otherwise you can find me on Facebook, Patreon and Discord:
 
 
-<div style="display:none">
+[![WZL Modding on Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg) &nbsp;](https://fb.com/w33zl)
+[![WZL Modding on Patreon](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg) &nbsp;](https://www.patreon.com/wzlmodding)
+[![https://discordapp.com/users/w33zl](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/users/w33zl)
 
-[![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://fb.com/w33zl)
-[![https://discordapp.com/users/w33zl](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discordapp.com/channels/@me/w33zl/)
-[![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://fb.com/w33zl)
-[![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg)](https://fb.com/w33zl)
-[![WZL Modding](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg)](https://fb.com/w33zl)
-
-</div>
 
 ## Like the work I do?
 I love to hear you feedback so please check out my [Facebook](https://www.facebook.com/w33zl). If you want to support me you can become my [Patron](https://www.patreon.com/wzlmodding) or buy me a [Ko-fi](https://ko-fi.com/w33zl) :heart:
@@ -59,17 +49,6 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0BB65P) [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dwzlmodding%3F%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/wzlmodding?)
 
 
-
-<div align="center" style="display:none">
-  
-
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
-</div>
 
 
 ## Some of the Languages and Tools I Like to Work With:
@@ -100,13 +79,10 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 
 ###
 
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w33zl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w33zl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=w33zl&theme=dracula&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=w33zl&theme=dracula&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="120" alt="trophy graph"  />
 </div>
 
 ###
