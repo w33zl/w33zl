@@ -15,18 +15,16 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 
 | Mods  |  | Modding Assets |
 |-------|--|----------------|
-| [PowerTools](https://github.com/w33zl/FS22_PowerTools) || [GE Hotkeys and Macros](/w33zl/GE-Hotkeys-and-Macros) |
-| [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) || [GE Toolbox](/w33zl/GE-Toolbox) |
-| [TidyShop](https://github.com/w33zl/TidyShop) || [GE Object Distributor](/w33zl/GE-Object-Distributor) |
-| TidyShop ModTitles || [GE TipsAndTrix](/w33zl/GE-TipsAndTrix) |
+| [PowerTools](https://github.com/w33zl/FS22_PowerTools) || [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) |
+| [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) || [GE Toolbox](https://github.com/w33zl/GE-Toolbox) |
+| [TidyShop](https://github.com/w33zl/TidyShop) || [GE Object Distributor](https://github.com/w33zl/GE-Object-Distributor) |
+| TidyShop ModTitles || [GE TipsAndTrix](https://github.com/w33zl/GE-TipsAndTrix) |
 | [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) ||  |
-| Weather Events || [WeezlsModLib](/w33zl/FS22_WeezlsModLib) |
-| Seasonal Prices || [BootstrapMod](/w33zl/FS22_BootstrapMod) |
+| Weather Events || [WeezlsModLib](https://github.com/w33zl/FS22_WeezlsModLib) |
+| Seasonal Prices || [BootstrapMod](https://github.com/w33zl/FS22_BootstrapMod) |
 | Beet Harvest Addon ||  |
 | SmartControl ||  |
 | [Other Mods](https://github.com/w33zl/Other-Mods) ||  |
-
-
 
 ## Download my mods
 To download my mods, please visit my FS19 or FS22 page on the official Giants ModHub page:
