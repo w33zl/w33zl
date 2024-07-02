@@ -18,8 +18,8 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 |       |  |  |  |
 |-------|--|--|--|
 | [PowerTools](https://github.com/w33zl/FS22_PowerTools) | [TidyShop](https://github.com/w33zl/TidyShop) | [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) | WeatherEvents |
-| [PowerTools Developer](https://github.com/w33zl/FS22_PowerTools_Developer) | TidyShop ModTitles | Refillable IBC Tank | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
-| BeetHarvestAddon | SmartControl |  | [Other Mods](https://github.com/w33zl/Other-Mods) |
+| [PowerTools Developer](https://github.com/w33zl/FS22_DevTools) | TidyShop ModTitles | Refillable IBC Tank | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
+| [DataDump](https://github.com/w33zl/FS22_DataDump) | BeetHarvestAddon | [SmartControl](https://github.com/w33zl/SmartControl) | [Other Mods](https://github.com/w33zl/Other-Mods) |
 
 
 ### Tools and Assets
