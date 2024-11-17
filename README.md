@@ -12,7 +12,7 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 ### FS25 Projects
 |       |  |  |  |
 |-------|--|--|--|
-| PowerTools | [Developer PowerTools](https://github.com/w33zl/FS22_DevTools) | [DataDump](https://github.com/w33zl/FS25_DataDump) | TBD |
+| PowerTools | [Developer PowerTools](https://github.com/w33zl/FS25_DevTools) | [DataDump](https://github.com/w33zl/FS25_DataDump) | TBD |
 
 
 
