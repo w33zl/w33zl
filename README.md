@@ -1,10 +1,5 @@
 # Hi 👋, I'm a game content creator for Farming Simulator and other games
 Currently, I do mostly mods, extensions, tools and assets for Farming Simulator.
-<!--
-<h1 align="center">Hi 👋, WZL Modding</h1>
-<h3 align="center">Game Content Creator for Farming Simulator and other games</h3>
-I mostly do mods, extensions, tools and other content for Farming Simulator. 
--->
 
 ![w33zl](https://komarev.com/ghpvc/?username=w33zl&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -14,12 +9,19 @@ Using the links below you can get more information about the mods/tools/assets I
 _**Note:** not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod you are looking for._
 
 
-### Mods
+### FS25 Projects
+|       |  |  |  |
+|-------|--|--|--|
+| PowerTools | [Developer PowerTools](https://github.com/w33zl/FS22_DevTools) | [DataDump](https://github.com/w33zl/FS25_DataDump) | TBD |
+
+
+
+### FS22 Projects
 |       |  |  |  |
 |-------|--|--|--|
 | [PowerTools](https://github.com/w33zl/FS22_PowerTools) | [TidyShop](https://github.com/w33zl/TidyShop) | [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) | WeatherEvents |
 | [PowerTools Developer](https://github.com/w33zl/FS22_DevTools) | TidyShop ModTitles | Refillable IBC Tank | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
-| [DataDump](https://github.com/w33zl/FS22_DataDump) | BeetHarvestAddon | [SmartControl](https://github.com/w33zl/SmartControl) | [Other Mods](https://github.com/w33zl/Other-Mods) |
+| [DataDump](https://github.com/w33zl/FS22_DataDump) | - | [SmartControl](https://github.com/w33zl/SmartControl) | [Other Mods](https://github.com/w33zl/Other-Mods) |
 
 
 ### Tools and Assets
@@ -33,11 +35,11 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 
 
 ## Download my mods
-To download my mods, please visit my FS19 or FS22 page on the official Giants ModHub page:
+To download my mods, please visit my FS19, FS22 or FS25 page on the official Giants ModHub page:
 
 [![My FS22 Mods](GitHubIcons_MH_FS19.png)](https://www.farming-simulator.com/mods.php?title=fs2019&filter=org&org_id=140742)
 [![My FS22 Mods](GitHubIcons_MH_FS22.png)](https://www.farming-simulator.com/mods.php?title=fs2022&filter=org&org_id=140742)
-[![My FS25 Mods](GitHubIcons_MH_FS25.png)](FS25.md)
+[![My FS25 Mods](GitHubIcons_MH_FS25.png)](https://www.farming-simulator.com/mods.php?title=fs2025&filter=org&org_id=140742)
 
 
 ## Open Modding Alliance
