@@ -12,8 +12,18 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 ### FS25 Projects
 |       |  |  |  |
 |-------|--|--|--|
-| PowerTools | [Developer PowerTools](https://github.com/w33zl/FS25_DevTools) | [DataDump](https://github.com/w33zl/FS25_DataDump) | TBD |
+| [PowerTools](https://github.com/w33zl/FS25_PowerTools) | [Developer PowerTools](https://github.com/w33zl/FS25_DevTools) | [DataDump](https://github.com/w33zl/FS25_DataDump) |  |
+| WeezlsModLib | BoostrapMod | [Other Mods](https://github.com/w33zl/FS25-Other-Mods) |  |
 
+
+
+### Tools and Assets
+| Giants Editor Tools  | Blender Assets | Tools & Scripts | 
+|-------------------|--|--|
+| [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) | [Blender Assets](https://github.com/w33zl/Blender_Assets) | [Script Binding Converter](https://github.com/w33zl/FS25-Script-Binding-Converter) |  |
+| [GE Toolbox](https://github.com/w33zl/GE-Toolbox) |  |  |  |
+| [GE Object Distributor](https://github.com/w33zl/GE-Object-Distributor) |  |  |  |
+| [GE TipsAndTrix](https://github.com/w33zl/GE-TipsAndTrix) |  |  |  |
 
 
 ### FS22 Projects
@@ -22,15 +32,6 @@ _**Note:** not all my mods have a dedicated page, check the "Other mods" link fo
 | [PowerTools](https://github.com/w33zl/FS22_PowerTools) | [TidyShop](https://github.com/w33zl/TidyShop) | [CustomTrafficSystem](https://github.com/w33zl/FS22_CustomTrafficSystem) | WeatherEvents |
 | [PowerTools Developer](https://github.com/w33zl/FS22_DevTools) | TidyShop ModTitles | Refillable IBC Tank | [SeasonalPrices](https://github.com/w33zl/SeasonalPrices) |
 | [DataDump](https://github.com/w33zl/FS22_DataDump) | - | [SmartControl](https://github.com/w33zl/SmartControl) | [Other Mods](https://github.com/w33zl/Other-Mods) |
-
-
-### Tools and Assets
-| Mod Assets  | Tools & Scripts | Blender Assets |
-|-------------------|--|--|
-| [WeezlsModLib](https://github.com/w33zl/FS22_WeezlsModLib) | [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) | [Blender Assets](https://github.com/w33zl/Blender_Assets) |
-| [BootstrapMod](https://github.com/w33zl/FS22_BootstrapMod) | [GE Toolbox](https://github.com/w33zl/GE-Toolbox) |  |
-|  | [GE Object Distributor](https://github.com/w33zl/GE-Object-Distributor) |  |
-|  | [GE TipsAndTrix](https://github.com/w33zl/GE-TipsAndTrix) |  |
 
 
 
