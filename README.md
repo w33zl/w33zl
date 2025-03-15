@@ -6,7 +6,7 @@ Currently, I do mostly mods, extensions, tools and assets for Farming Simulator.
 ## Projects (mods, tools and assets)
 Using the links below you can get more information about the mods/tools/assets I have created. In each repo you can report bugs and suggest improvements for that project. 
 
-_**Note:** not all my mods have a dedicated page, check the ["Other mods"]((https://github.com/w33zl/FS25_WeezlModding)) link for any non-listed mod you are looking for._
+_**Note:** not all my mods have a dedicated page, check the ["Other mods"](https://github.com/w33zl/FS25_WeezlModding) link for any non-listed mod you are looking for._
 
 
 ### FS25 Projects
