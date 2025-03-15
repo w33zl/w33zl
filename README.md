@@ -6,15 +6,18 @@ Currently, I do mostly mods, extensions, tools and assets for Farming Simulator.
 ## Projects (mods, tools and assets)
 Using the links below you can get more information about the mods/tools/assets I have created. In each repo you can report bugs and suggest improvements for that project. 
 
-_**Note:** not all my mods have a dedicated page, check the "Other mods" link for any non-listed mod you are looking for._
+_**Note:** not all my mods have a dedicated page, check the ["Other mods"]((https://github.com/w33zl/FS25_WeezlModding)) link for any non-listed mod you are looking for._
 
 
 ### FS25 Projects
 |       |  |  |  |
 |-------|--|--|--|
-| [PowerTools](https://github.com/w33zl/FS25_PowerTools) | [Developer PowerTools](https://github.com/w33zl/FS25_DevTools) | [DataDump](https://github.com/w33zl/FS25_DataDump) |  |
-| WeezlsModLib | BoostrapMod | [Other Mods](https://github.com/w33zl/FS25-Other-Mods) |  |
+| [PowerTools](https://github.com/w33zl/FS25_PowerTools) | [EnhancedShopSorting](https://github.com/w33zl/FS25_EnhancedShopSorting) | [ShopSearch](https://github.com/w33zl/FS25_ShopSearch) | Buy Used Equipment |
+| [Developer PowerTools](https://github.com/w33zl/FS25_DevTools) |  |  | [DataDump](https://github.com/w33zl/FS25_DataDump) |
+| AdditionalFilltypes | WeezlsModLib | BoostrapMod | [Other Mods](https://github.com/w33zl/FS25_WeezlModding) |
 
+
+> _**Note:** Refillable IBC Tank, Portable Service Kit etc is found in the [Other Mods](https://github.com/w33zl/FS25_WeezlModding) section_
 
 
 ### Tools and Assets
@@ -61,6 +64,7 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0BB65P) [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dwzlmodding%3F%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/wzlmodding?)
 
+> _By interacting with me and supporting me on these platforms, you help me stay motivated to create new mods and make the publicly available. Any monetary support also helps me towards my dream; to spend more time on making mods for Farming Simulator instead of my current day job (as everyone else, I need to finance my IRL life some way or other)._
 
 
 
