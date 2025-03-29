@@ -24,10 +24,11 @@ _**Note:** not all my mods have a dedicated page, check the ["Other mods"](https
 ### Tools and Assets
 | Giants Editor Tools  | Blender Assets | Tools & Scripts | 
 |-------------------|--|--|
-| [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) | [Blender Assets](https://github.com/w33zl/Blender_Assets) | [Script Binding Converter](https://github.com/w33zl/FS25-Script-Binding-Converter) |  |
-| [GE Toolbox](https://github.com/w33zl/GE-Toolbox) |  |  |  |
+| [GE Hotkeys and Macros](https://github.com/w33zl/GE-Hotkeys-and-Macros) | [Blender Assets](https://github.com/w33zl/Blender_Assets) | [FSBuild](https://github.com/w33zl/FSBuild) |  |
+| [GE Toolbox](https://github.com/w33zl/GE-Toolbox) |  | [Script Binding Converter](https://github.com/w33zl/FS25-Script-Binding-Converter) |  |
 | [GE Object Distributor](https://github.com/w33zl/GE-Object-Distributor) |  |  |  |
 | [GE TipsAndTrix](https://github.com/w33zl/GE-TipsAndTrix) |  |  |  |
+
 
 
 ### FS22 Projects
