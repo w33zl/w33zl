@@ -14,7 +14,7 @@ _**Note:** not all my mods have a dedicated page, check the ["Other mods"](https
 |-------|--|--|--|
 | [PowerTools](https://github.com/w33zl/FS25_PowerTools) | [Enhanced Shop Sorting](https://github.com/w33zl/FS25_EnhancedShopSorting) | [Store Search](https://github.com/w33zl/FS25_ShopSearch) | Buy Used Equipment |
 | [Developer PowerTools](https://github.com/w33zl/FS25_DevTools) |  |  | [DataDump](https://github.com/w33zl/FS25_DataDump) |
-| AdditionalFilltypes | WeezlsModLib | BoostrapMod | [Other Mods](https://github.com/w33zl/FS25_WeezlModding) |
+| AdditionalFilltypes | [WeezlsModLib](https://github.com/w33zl/FS25_WeezlsModLib) | BoostrapMod | [Other Mods](https://github.com/w33zl/FS25_WeezlModding) |
 
 
 
